@@ -1,10 +1,17 @@
 import urllib2
 from BeautifulSoup import BeautifulSoup
 from pprint import pprint as pp
+import time
+import json
+
 HID = 0
 PLAYS = 2
 WR = 3
 KDA = 4
+
+CACHE_FILENAME = "cache.json"
+
+MAX_FILE_AGE = 86400 # seconds - timeout of data is a day
 
 url = "http://www.dotabuff.com/players/{pid}/heroes"
 people = { 'mike': 136754293,
@@ -36,8 +43,43 @@ def get_soup_for(url):
 def generate_url_for(person):
 	return url.format(pid=people[person])
 
-if __name__ == "__main__":
+def cache_data(people):
+	now = time.time()
+	data = {}
+	data['time'] = int(now)
+	data['stats'] = people
+	strdata = json.dumps(data)
+	with open(CACHE_FILENAME, 'w') as f:
+		f.write(strdata)
+
+def load_cached_data():
+	data = None
+	with open(CACHE_FILENAME, 'r') as f:
+		data = json.load(f)
+	return data
+
+def get_data():
+	try:
+		data = load_cached_data()
+		now = time.time()
+		age = now - data['time']
+		if age < MAX_FILE_AGE:
+			print("\tUsing cached data")
+			return data
+	except Exception, e:
+		pass
+	print("\tScraping new data")
+	data = scrape_new_data()
+	cache_data(data)
+	return data
+
+def scrape_new_data():
+	data = dict()
 	for person in people:
 		heroes = get_heroes_list(person)
-		morethan5playscnt = len([h for h in heroes if heroes[h]['matches'] > 5])
-		print("{}: {}".format(person, morethan5playscnt)) 	
+		data[person] = heroes
+	return data
+
+
+if __name__ == "__main__":
+	data = get_data()
