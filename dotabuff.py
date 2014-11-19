@@ -14,6 +14,8 @@ CACHE_FILENAME = "cache.json"
 MAX_FILE_AGE = 86400 # seconds - timeout of data is a day
 
 url = "http://www.dotabuff.com/players/{pid}/heroes"
+
+#@TODO move these into a config file
 people = { 'mike': 136754293,
 "woody": 30075956,
 "stu": 78479931,
@@ -23,19 +25,18 @@ people = { 'mike': 136754293,
 "andy": 84388592}
 
 def get_heroes_list(name):
-	url = generate_url_for(name)
-	soup = get_soup_for(url)
+	soup = get_soup_from_url(generate_url_for(name))
 	herosoup = soup.table.contents[1]
 	heroes = {}
 	for hero in herosoup:
 		name = hero.contents[HID].img['title']
 		matches = int(hero.contents[PLAYS].contents[0])
-		wr = float(hero.contents[WR].contents[0][:-1])/100.0
+		wr = float(hero.contents[WR].contents[0][:-1]) / 100.0
 		kda = float(hero.contents[KDA].contents[0])
 		heroes[name] = {"matches": matches, "wr": wr, "kda": kda}
 	return heroes
 
-def get_soup_for(url):
+def get_soup_from_url(url):
 	f = urllib2.urlopen(url, timeout=1)
 	soup = BeautifulSoup(f.read())
 	return soup	
@@ -65,7 +66,7 @@ def get_data():
 		age = now - data['time']
 		if age < MAX_FILE_AGE:
 			print("\tUsing cached data")
-			return data
+			return data['stats']
 	except Exception, e:
 		pass
 	print("\tScraping new data")
@@ -81,5 +82,6 @@ def scrape_new_data():
 	return data
 
 
+#@TODO Actually do analytics
 if __name__ == "__main__":
 	data = get_data()
