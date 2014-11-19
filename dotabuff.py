@@ -81,7 +81,7 @@ def scrape_new_data():
 		data[person] = heroes
 	return data
 
-def find_person_best_at_most_heroes(data, threshold = 0.0):
+def find_person_best_at_most_heroes(data, threshold = 0.0, wrthresh = 0.0):
 	heronames = []
 
 	# collect all the active hero names
@@ -101,9 +101,11 @@ def find_person_best_at_most_heroes(data, threshold = 0.0):
 		for person in people:
 			# if this person has played 
 			if hero in data[person]:
-				if data[person][hero]['wr'] > bestatheros[hero][1] and data[person][hero]['wr'] > 0:
-					if data[person][hero]['matches'] > threshold:
-						bestatheros[hero] = [person, data[person][hero]['wr']]
+				wr = data[person][hero]['wr']
+				matches = data[person][hero]['matches']
+				if wr > bestatheros[hero][1] and wr > 0:
+					if matches > threshold and wr > wrthresh:
+						bestatheros[hero] = [person, wr]
 	number_of_best = dict()
 	for person in people:
 		number_of_best[person] = 0
@@ -115,14 +117,24 @@ def find_person_best_at_most_heroes(data, threshold = 0.0):
 	for person in people:
 		if number_of_best[person] > number_of_best[best]:
 			best = person
-	return best
+	dupes = []
+	dupes.append(best)
+	for person in people:
+		if person != best:
+			if number_of_best[person] == number_of_best[best]:
+				dupes.append(person)
+	if len(dupes) == 1:
+		return (best, number_of_best[best])
+	else:
+		return (dupes, number_of_best[best])
 
 #@TODO Actually do analytics
 if __name__ == "__main__":
 	data = get_data()
-	for i in range(10, 30):
-		best = find_person_best_at_most_heroes(data, i)
-		print("at minimum number of wins of {}, person best at most heroes is {}".format(i, best))
+	for i in range(1, 120):
+		best = find_person_best_at_most_heroes(data, i, 0.5)
+		if best is not None:
+			print("at minimum of {} matches, person best at most heroes is {} with {}".format(i, best[0], best[1]))
 
 
 
