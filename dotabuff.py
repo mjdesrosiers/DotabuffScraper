@@ -49,7 +49,7 @@ def cache_data(people):
 	data = {}
 	data['time'] = int(now)
 	data['stats'] = people
-	strdata = json.dumps(data)
+	strdata = json.dumps(data, indent=2)
 	with open(CACHE_FILENAME, 'w') as f:
 		f.write(strdata)
 
@@ -65,11 +65,11 @@ def get_data():
 		now = time.time()
 		age = now - data['time']
 		if age < MAX_FILE_AGE:
-			print("\tUsing cached data")
+			print("==== [Using cached data] ====")
 			return data['stats']
 	except Exception, e:
 		pass
-	print("\tScraping new data")
+	print("==== [Scraping new data] ====")
 	data = scrape_new_data()
 	cache_data(data)
 	return data
