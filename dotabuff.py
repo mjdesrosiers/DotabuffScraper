@@ -128,14 +128,32 @@ def find_person_best_at_most_heroes(data, threshold = 0.0, wrthresh = 0.0):
 	else:
 		return (dupes, number_of_best[best])
 
+# weighted average of KDA aggregate per player
+def get_best_kdas(data):
+	kdas = dict()
+	for person in people:
+		summatches = 0
+		sumkda = 0
+		for hero in data[person]:
+			kda = data[person][hero]['kda']
+			matches = data[person][hero]['matches']
+			sumkda += kda * matches
+			summatches += matches
+		kdas[person] = sumkda / summatches
+	return kdas
+
+
+
 #@TODO Actually do analytics
 if __name__ == "__main__":
 	data = get_data()
+	"""
 	for i in range(1, 120):
 		best = find_person_best_at_most_heroes(data, i, 0.5)
 		if best is not None:
 			print("at minimum of {} matches, person best at most heroes is {} with {}".format(i, best[0], best[1]))
-
+	"""
+	pp(get_best_kdas(data))
 
 
 
