@@ -11,6 +11,7 @@ WR = 3
 KDA = 4
 
 CACHE_BEST_HEROES_FILENAME = "cache_best_heroes.json"
+CACHE_LATEST_MATCH_FILENAME = "cache_latest_game"
 
 STARTING_MATCH_ID = 1163835958
 
@@ -48,13 +49,13 @@ def get_soup_from_url(url):
     return soup
 
 
-def get_recent_match_ids(name):
+def get_recent_match_ids(name, starting_id):
     soup = get_soup_from_url(generate_url_for(personbaseurl, name))
     matches = soup.findAll("article")[1].findAll('tr')
     newmatches = []
     for match in matches[1:]:
         matchid = int(match.findAll('a')[1]['href'][9:])
-        if matchid >= STARTING_MATCH_ID:
+        if matchid > starting_id:
             newmatches.append(matchid)
     return newmatches
 
@@ -239,20 +240,36 @@ def get_best_kdas(data):
 
 
 
-#@TODO Actually do analytics
-if __name__ == "__main__":
+def cache_latest_match(latest):
+    with open(CACHE_LATEST_MATCH_FILENAME, 'w') as f:
+        f.write(str(latest))
+
+def load_latest_match():
+    with open(CACHE_LATEST_MATCH_FILENAME, 'r') as f:
+        matchstr = f.readline()
+        return int(matchstr)
+
+def update_latest_matches():
+    print("---updating recent matches---")
+    starting_id = load_latest_match()
     newmatches = []
     for person in people:
-        personmatches = get_recent_match_ids(person)
+        personmatches = get_recent_match_ids(person, starting_id)
         for match in personmatches:
             if match not in newmatches:
                 newmatches.append(match)
     for match in newmatches:
             get_match_results(match)
+    if newmatches:
+        print(newmatches)
+        latest = max(newmatches)
+        cache_latest_match(latest)
+    else:
+        print("no new matches")
 
-    print(newmatches)
-    latest = max(newmatches)
-    print('latest = ' + str(latest))
+#@TODO Actually do analytics
+if __name__ == "__main__":
+    update_latest_matches()
     """
     data = get_data()
     for i in range(1, 120):
