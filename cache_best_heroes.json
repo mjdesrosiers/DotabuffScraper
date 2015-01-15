@@ -1,45 +1,20 @@
 {
   "stats": {
     "mike": {
-      "Ogre Magi": {
-        "matches": 9, 
-        "wr": 0.3333, 
-        "kda": 2.48
-      }, 
-      "Disruptor": {
-        "matches": 8, 
-        "wr": 0.375, 
-        "kda": 2.67
-      }, 
-      "Dazzle": {
+      "Razor": {
         "matches": 2, 
         "wr": 0.0, 
-        "kda": 1.06
+        "kda": 2.18
       }, 
       "Night Stalker": {
         "matches": 3, 
         "wr": 0.3333, 
         "kda": 2.71
       }, 
-      "Anti-Mage": {
-        "matches": 2, 
-        "wr": 1.0, 
-        "kda": 2.23
-      }, 
       "Naga Siren": {
         "matches": 1, 
         "wr": 1.0, 
         "kda": 3.0
-      }, 
-      "Magnus": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 3.14
-      }, 
-      "Nyx Assassin": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 1.8
       }, 
       "Undying": {
         "matches": 6, 
@@ -47,334 +22,84 @@
         "kda": 2.62
       }, 
       "Dragon Knight": {
-        "matches": 16, 
-        "wr": 0.375, 
-        "kda": 2.37
-      }, 
-      "Witch Doctor": {
-        "matches": 38, 
-        "wr": 0.47369999999999995, 
-        "kda": 3.3
-      }, 
-      "Riki": {
-        "matches": 5, 
-        "wr": 0.8, 
-        "kda": 11.25
-      }, 
-      "Pudge": {
-        "matches": 1, 
-        "wr": 1.0, 
-        "kda": 3.0
-      }, 
-      "Viper": {
-        "matches": 20, 
-        "wr": 0.6, 
-        "kda": 5.05
+        "matches": 17, 
+        "wr": 0.4118, 
+        "kda": 2.72
       }, 
       "Juggernaut": {
         "matches": 10, 
         "wr": 0.7, 
         "kda": 4.95
       }, 
-      "Tusk": {
-        "matches": 14, 
-        "wr": 0.7857, 
-        "kda": 3.29
-      }, 
       "Ursa": {
         "matches": 1, 
         "wr": 0.0, 
         "kda": 0.7
-      }, 
-      "Pugna": {
-        "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 1.64
-      }, 
-      "Lycan": {
-        "matches": 7, 
-        "wr": 0.5714, 
-        "kda": 2.17
-      }, 
-      "Nature's Prophet": {
-        "matches": 2, 
-        "wr": 0.5, 
-        "kda": 1.75
-      }, 
-      "Axe": {
-        "matches": 4, 
-        "wr": 0.25, 
-        "kda": 1.39
-      }, 
-      "Sniper": {
-        "matches": 25, 
-        "wr": 0.6, 
-        "kda": 3.62
-      }, 
-      "Warlock": {
-        "matches": 2, 
-        "wr": 1.0, 
-        "kda": 15.0
-      }, 
-      "Jakiro": {
-        "matches": 27, 
-        "wr": 0.44439999999999996, 
-        "kda": 2.55
-      }, 
-      "Storm Spirit": {
-        "matches": 2, 
-        "wr": 0.0, 
-        "kda": 1.1
-      }, 
-      "Spirit Breaker": {
-        "matches": 6, 
-        "wr": 0.6667000000000001, 
-        "kda": 3.19
-      }, 
-      "Venomancer": {
-        "matches": 16, 
-        "wr": 0.5, 
-        "kda": 3.05
-      }, 
-      "Meepo": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 0.17
-      }, 
-      "Crystal Maiden": {
-        "matches": 5, 
-        "wr": 0.4, 
-        "kda": 2.65
-      }, 
-      "Leshrac": {
-        "matches": 10, 
-        "wr": 0.5, 
-        "kda": 2.17
-      }, 
-      "Zeus": {
-        "matches": 11, 
-        "wr": 0.6364, 
-        "kda": 6.06
-      }, 
-      "Luna": {
-        "matches": 25, 
-        "wr": 0.68, 
-        "kda": 3.59
-      }, 
-      "Bloodseeker": {
-        "matches": 9, 
-        "wr": 0.5556, 
-        "kda": 2.1
       }, 
       "Bane": {
         "matches": 36, 
         "wr": 0.5556, 
         "kda": 3.19
       }, 
-      "Silencer": {
-        "matches": 33, 
-        "wr": 0.6061, 
-        "kda": 2.65
-      }, 
-      "Sven": {
-        "matches": 4, 
-        "wr": 0.75, 
-        "kda": 2.55
-      }, 
-      "Windranger": {
-        "matches": 6, 
-        "wr": 0.5, 
-        "kda": 2.49
-      }, 
-      "Drow Ranger": {
-        "matches": 37, 
-        "wr": 0.7837999999999999, 
-        "kda": 3.39
+      "Pugna": {
+        "matches": 3, 
+        "wr": 0.3333, 
+        "kda": 1.64
       }, 
       "Ancient Apparition": {
         "matches": 8, 
         "wr": 0.25, 
         "kda": 1.96
       }, 
-      "Shadow Demon": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 1.53
-      }, 
-      "Huskar": {
-        "matches": 16, 
-        "wr": 0.5625, 
-        "kda": 2.69
-      }, 
-      "Broodmother": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 1.29
-      }, 
-      "Doom": {
-        "matches": 3, 
-        "wr": 0.0, 
-        "kda": 1.57
-      }, 
-      "Vengeful Spirit": {
-        "matches": 8, 
-        "wr": 0.25, 
-        "kda": 1.8
-      }, 
-      "Lina": {
-        "matches": 16, 
-        "wr": 0.5, 
-        "kda": 2.55
-      }, 
-      "Shadow Shaman": {
-        "matches": 6, 
-        "wr": 0.16670000000000001, 
-        "kda": 1.69
-      }, 
-      "Skywrath Mage": {
-        "matches": 27, 
-        "wr": 0.5556, 
-        "kda": 3.17
-      }, 
       "Omniknight": {
-        "matches": 3, 
-        "wr": 0.6667000000000001, 
-        "kda": 1.3
-      }, 
-      "Batrider": {
-        "matches": 2, 
-        "wr": 0.0, 
-        "kda": 2.5
-      }, 
-      "Dark Seer": {
-        "matches": 1, 
-        "wr": 0.0, 
+        "matches": 4, 
+        "wr": 0.75, 
         "kda": 1.75
       }, 
-      "Elder Titan": {
-        "matches": 1, 
-        "wr": 1.0, 
-        "kda": 2.43
-      }, 
-      "Timbersaw": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 2.57
-      }, 
       "Chaos Knight": {
-        "matches": 14, 
-        "wr": 0.8571, 
-        "kda": 4.24
-      }, 
-      "Brewmaster": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 1.5
-      }, 
-      "Outworld Devourer": {
-        "matches": 2, 
-        "wr": 0.0, 
-        "kda": 1.27
-      }, 
-      "Tidehunter": {
-        "matches": 1, 
-        "wr": 1.0, 
-        "kda": 4.6
-      }, 
-      "Clockwerk": {
-        "matches": 18, 
-        "wr": 0.7222, 
-        "kda": 4.11
-      }, 
-      "Kunkka": {
-        "matches": 33, 
-        "wr": 0.6667000000000001, 
-        "kda": 3.11
-      }, 
-      "Tiny": {
-        "matches": 2, 
-        "wr": 1.0, 
-        "kda": 5.0
-      }, 
-      "Faceless Void": {
-        "matches": 5, 
-        "wr": 0.8, 
-        "kda": 3.11
-      }, 
-      "Mirana": {
-        "matches": 11, 
-        "wr": 0.3636, 
-        "kda": 3.27
-      }, 
-      "Weaver": {
-        "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 4.92
-      }, 
-      "Lich": {
-        "matches": 53, 
-        "wr": 0.7170000000000001, 
-        "kda": 4.58
-      }, 
-      "Clinkz": {
-        "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 1.83
-      }, 
-      "Phoenix": {
-        "matches": 5, 
-        "wr": 0.8, 
+        "matches": 16, 
+        "wr": 0.8125, 
         "kda": 4.13
       }, 
-      "Ember Spirit": {
+      "Outworld Devourer": {
         "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 1.96
+        "wr": 0.0, 
+        "kda": 1.12
+      }, 
+      "Faceless Void": {
+        "matches": 9, 
+        "wr": 0.6667000000000001, 
+        "kda": 4.06
+      }, 
+      "Mirana": {
+        "matches": 13, 
+        "wr": 0.46149999999999997, 
+        "kda": 3.33
+      }, 
+      "Elder Titan": {
+        "matches": 2, 
+        "wr": 0.5, 
+        "kda": 3.07
       }, 
       "Slardar": {
         "matches": 2, 
         "wr": 0.0, 
         "kda": 2.44
       }, 
-      "Puck": {
-        "matches": 2, 
-        "wr": 0.5, 
-        "kda": 1.42
-      }, 
-      "Legion Commander": {
-        "matches": 12, 
-        "wr": 0.5, 
-        "kda": 2.06
-      }, 
-      "Wraith King": {
-        "matches": 14, 
-        "wr": 0.4286, 
-        "kda": 3.31
-      }, 
       "Templar Assassin": {
         "matches": 5, 
         "wr": 0.6, 
         "kda": 2.36
       }, 
-      "Morphling": {
+      "Shadow Demon": {
         "matches": 1, 
         "wr": 0.0, 
-        "kda": 10.0
+        "kda": 1.53
       }, 
-      "Bounty Hunter": {
-        "matches": 3, 
-        "wr": 0.6667000000000001, 
-        "kda": 2.5
-      }, 
-      "Death Prophet": {
-        "matches": 6, 
-        "wr": 0.3333, 
-        "kda": 2.11
-      }, 
-      "Lion": {
-        "matches": 19, 
-        "wr": 0.31579999999999997, 
-        "kda": 2.09
+      "Anti-Mage": {
+        "matches": 2, 
+        "wr": 1.0, 
+        "kda": 2.23
       }, 
       "Keeper of the Light": {
         "matches": 1, 
@@ -382,39 +107,14 @@
         "kda": 4.67
       }, 
       "Necrophos": {
-        "matches": 9, 
-        "wr": 0.22219999999999998, 
-        "kda": 2.68
-      }, 
-      "Chen": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 0.9
-      }, 
-      "Phantom Assassin": {
-        "matches": 3, 
-        "wr": 0.6667000000000001, 
-        "kda": 4.3
-      }, 
-      "Earth Spirit": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 0.36
+        "matches": 10, 
+        "wr": 0.3, 
+        "kda": 3.0
       }, 
       "Medusa": {
-        "matches": 2, 
+        "matches": 4, 
         "wr": 0.0, 
-        "kda": 1.25
-      }, 
-      "Centaur Warrunner": {
-        "matches": 6, 
-        "wr": 0.8332999999999999, 
-        "kda": 6.0
-      }, 
-      "Rubick": {
-        "matches": 1, 
-        "wr": 1.0, 
-        "kda": 3.0
+        "kda": 1.9
       }, 
       "Enchantress": {
         "matches": 2, 
@@ -422,16 +122,351 @@
         "kda": 1.15
       }, 
       "Phantom Lancer": {
+        "matches": 7, 
+        "wr": 0.4286, 
+        "kda": 3.12
+      }, 
+      "Witch Doctor": {
+        "matches": 39, 
+        "wr": 0.48719999999999997, 
+        "kda": 3.21
+      }, 
+      "Riki": {
+        "matches": 8, 
+        "wr": 0.625, 
+        "kda": 7.54
+      }, 
+      "Sniper": {
+        "matches": 26, 
+        "wr": 0.5769, 
+        "kda": 3.61
+      }, 
+      "Meepo": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 0.17
+      }, 
+      "Leshrac": {
+        "matches": 10, 
+        "wr": 0.5, 
+        "kda": 2.17
+      }, 
+      "Zeus": {
+        "matches": 12, 
+        "wr": 0.5832999999999999, 
+        "kda": 5.84
+      }, 
+      "Silencer": {
+        "matches": 33, 
+        "wr": 0.6061, 
+        "kda": 2.65
+      }, 
+      "Broodmother": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 1.29
+      }, 
+      "Doom": {
+        "matches": 5, 
+        "wr": 0.0, 
+        "kda": 1.91
+      }, 
+      "Lina": {
+        "matches": 18, 
+        "wr": 0.5, 
+        "kda": 2.32
+      }, 
+      "Batrider": {
+        "matches": 4, 
+        "wr": 0.0, 
+        "kda": 2.11
+      }, 
+      "Brewmaster": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 1.5
+      }, 
+      "Axe": {
+        "matches": 4, 
+        "wr": 0.25, 
+        "kda": 1.39
+      }, 
+      "Skywrath Mage": {
+        "matches": 31, 
+        "wr": 0.5806, 
+        "kda": 3.28
+      }, 
+      "Clinkz": {
+        "matches": 4, 
+        "wr": 0.5, 
+        "kda": 2.41
+      }, 
+      "Gyrocopter": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 3.33
+      }, 
+      "Venomancer": {
+        "matches": 16, 
+        "wr": 0.5, 
+        "kda": 3.05
+      }, 
+      "Morphling": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 10.0
+      }, 
+      "Death Prophet": {
         "matches": 6, 
         "wr": 0.3333, 
-        "kda": 2.32
+        "kda": 2.11
+      }, 
+      "Lion": {
+        "matches": 23, 
+        "wr": 0.2609, 
+        "kda": 2.07
+      }, 
+      "Ogre Magi": {
+        "matches": 11, 
+        "wr": 0.2727, 
+        "kda": 2.51
+      }, 
+      "Dazzle": {
+        "matches": 2, 
+        "wr": 0.0, 
+        "kda": 1.06
+      }, 
+      "Magnus": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 3.14
+      }, 
+      "Earth Spirit": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 0.36
+      }, 
+      "Pudge": {
+        "matches": 1, 
+        "wr": 1.0, 
+        "kda": 3.0
+      }, 
+      "Storm Spirit": {
+        "matches": 2, 
+        "wr": 0.0, 
+        "kda": 1.1
+      }, 
+      "Nature's Prophet": {
+        "matches": 2, 
+        "wr": 0.5, 
+        "kda": 1.75
+      }, 
+      "Warlock": {
+        "matches": 3, 
+        "wr": 0.6667000000000001, 
+        "kda": 12.25
+      }, 
+      "Spirit Breaker": {
+        "matches": 10, 
+        "wr": 0.7, 
+        "kda": 3.48
+      }, 
+      "Crystal Maiden": {
+        "matches": 5, 
+        "wr": 0.4, 
+        "kda": 2.65
+      }, 
+      "Sven": {
+        "matches": 4, 
+        "wr": 0.75, 
+        "kda": 2.55
+      }, 
+      "Huskar": {
+        "matches": 17, 
+        "wr": 0.5882000000000001, 
+        "kda": 2.75
+      }, 
+      "Centaur Warrunner": {
+        "matches": 11, 
+        "wr": 0.8181999999999999, 
+        "kda": 4.25
+      }, 
+      "Treant Protector": {
+        "matches": 1, 
+        "wr": 1.0, 
+        "kda": 0.8
+      }, 
+      "Sand King": {
+        "matches": 1, 
+        "wr": 1.0, 
+        "kda": 5.0
+      }, 
+      "Dark Seer": {
+        "matches": 3, 
+        "wr": 0.3333, 
+        "kda": 3.3
+      }, 
+      "Clockwerk": {
+        "matches": 30, 
+        "wr": 0.7333, 
+        "kda": 4.34
+      }, 
+      "Tiny": {
+        "matches": 3, 
+        "wr": 0.6667000000000001, 
+        "kda": 4.71
+      }, 
+      "Oracle": {
+        "matches": 2, 
+        "wr": 0.0, 
+        "kda": 3.56
+      }, 
+      "Puck": {
+        "matches": 2, 
+        "wr": 0.5, 
+        "kda": 1.42
+      }, 
+      "Nyx Assassin": {
+        "matches": 2, 
+        "wr": 0.0, 
+        "kda": 1.5
+      }, 
+      "Bounty Hunter": {
+        "matches": 3, 
+        "wr": 0.6667000000000001, 
+        "kda": 2.5
+      }, 
+      "Luna": {
+        "matches": 26, 
+        "wr": 0.6923, 
+        "kda": 3.63
+      }, 
+      "Shadow Shaman": {
+        "matches": 8, 
+        "wr": 0.25, 
+        "kda": 1.81
+      }, 
+      "Disruptor": {
+        "matches": 8, 
+        "wr": 0.375, 
+        "kda": 2.67
+      }, 
+      "Timbersaw": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 2.57
+      }, 
+      "Viper": {
+        "matches": 27, 
+        "wr": 0.6296, 
+        "kda": 5.34
+      }, 
+      "Tusk": {
+        "matches": 22, 
+        "wr": 0.6818000000000001, 
+        "kda": 3.26
+      }, 
+      "Lycan": {
+        "matches": 7, 
+        "wr": 0.5714, 
+        "kda": 2.17
+      }, 
+      "Phoenix": {
+        "matches": 5, 
+        "wr": 0.8, 
+        "kda": 4.13
+      }, 
+      "Beastmaster": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 5.0
+      }, 
+      "Bloodseeker": {
+        "matches": 9, 
+        "wr": 0.5556, 
+        "kda": 2.1
+      }, 
+      "Jakiro": {
+        "matches": 31, 
+        "wr": 0.45159999999999995, 
+        "kda": 2.43
+      }, 
+      "Windranger": {
+        "matches": 7, 
+        "wr": 0.5714, 
+        "kda": 3.03
+      }, 
+      "Drow Ranger": {
+        "matches": 40, 
+        "wr": 0.8, 
+        "kda": 3.44
+      }, 
+      "Vengeful Spirit": {
+        "matches": 11, 
+        "wr": 0.2727, 
+        "kda": 2.09
+      }, 
+      "Kunkka": {
+        "matches": 35, 
+        "wr": 0.6857, 
+        "kda": 3.4
+      }, 
+      "Slark": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 4.67
+      }, 
+      "Weaver": {
+        "matches": 6, 
+        "wr": 0.16670000000000001, 
+        "kda": 5.35
+      }, 
+      "Lich": {
+        "matches": 57, 
+        "wr": 0.7193, 
+        "kda": 4.55
+      }, 
+      "Ember Spirit": {
+        "matches": 3, 
+        "wr": 0.3333, 
+        "kda": 1.96
+      }, 
+      "Legion Commander": {
+        "matches": 13, 
+        "wr": 0.46149999999999997, 
+        "kda": 2.1
+      }, 
+      "Wraith King": {
+        "matches": 14, 
+        "wr": 0.4286, 
+        "kda": 3.31
+      }, 
+      "Tidehunter": {
+        "matches": 3, 
+        "wr": 0.6667000000000001, 
+        "kda": 2.53
+      }, 
+      "Phantom Assassin": {
+        "matches": 4, 
+        "wr": 0.75, 
+        "kda": 3.18
+      }, 
+      "Chen": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 0.9
+      }, 
+      "Rubick": {
+        "matches": 1, 
+        "wr": 1.0, 
+        "kda": 3.0
       }
     }, 
     "brian": {
       "Ogre Magi": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 2.29
+        "matches": 5, 
+        "wr": 0.4, 
+        "kda": 3.0
       }, 
       "Razor": {
         "matches": 4, 
@@ -439,9 +474,9 @@
         "kda": 3.03
       }, 
       "Dazzle": {
-        "matches": 5, 
-        "wr": 0.4, 
-        "kda": 2.68
+        "matches": 7, 
+        "wr": 0.2857, 
+        "kda": 1.87
       }, 
       "Puck": {
         "matches": 4, 
@@ -449,24 +484,24 @@
         "kda": 2.1
       }, 
       "Naga Siren": {
-        "matches": 22, 
-        "wr": 0.5455, 
-        "kda": 2.94
+        "matches": 26, 
+        "wr": 0.5385, 
+        "kda": 3.05
       }, 
       "Magnus": {
-        "matches": 18, 
-        "wr": 0.6111, 
-        "kda": 3.35
+        "matches": 25, 
+        "wr": 0.6, 
+        "kda": 3.31
       }, 
       "Legion Commander": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 3.5
+        "matches": 7, 
+        "wr": 0.4286, 
+        "kda": 2.54
       }, 
       "Axe": {
-        "matches": 34, 
-        "wr": 0.6765000000000001, 
-        "kda": 2.57
+        "matches": 41, 
+        "wr": 0.6098, 
+        "kda": 2.48
       }, 
       "Omniknight": {
         "matches": 4, 
@@ -474,19 +509,24 @@
         "kda": 6.22
       }, 
       "Tiny": {
-        "matches": 11, 
-        "wr": 0.6364, 
-        "kda": 2.47
+        "matches": 12, 
+        "wr": 0.6667000000000001, 
+        "kda": 2.65
       }, 
       "Wraith King": {
         "matches": 1, 
         "wr": 1.0, 
         "kda": 12.0
       }, 
+      "Oracle": {
+        "matches": 7, 
+        "wr": 0.5714, 
+        "kda": 2.35
+      }, 
       "Pudge": {
-        "matches": 76, 
-        "wr": 0.5658, 
-        "kda": 3.13
+        "matches": 83, 
+        "wr": 0.5663, 
+        "kda": 3.06
       }, 
       "Night Stalker": {
         "matches": 2, 
@@ -494,49 +534,54 @@
         "kda": 3.79
       }, 
       "Invoker": {
-        "matches": 126, 
-        "wr": 0.4603, 
-        "kda": 3.23
+        "matches": 135, 
+        "wr": 0.47409999999999997, 
+        "kda": 3.24
       }, 
       "Juggernaut": {
-        "matches": 11, 
-        "wr": 0.3636, 
-        "kda": 3.76
+        "matches": 13, 
+        "wr": 0.3077, 
+        "kda": 3.47
       }, 
       "Tusk": {
-        "matches": 7, 
-        "wr": 0.8571, 
-        "kda": 3.86
+        "matches": 10, 
+        "wr": 0.7, 
+        "kda": 3.05
       }, 
       "Ursa": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 4.75
+        "matches": 2, 
+        "wr": 0.5, 
+        "kda": 3.83
       }, 
       "Windranger": {
-        "matches": 5, 
-        "wr": 0.8, 
-        "kda": 4.07
+        "matches": 6, 
+        "wr": 0.8332999999999999, 
+        "kda": 4.06
       }, 
       "Warlock": {
         "matches": 1, 
         "wr": 1.0, 
         "kda": 4.14
       }, 
+      "Gyrocopter": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 1.55
+      }, 
       "Phoenix": {
-        "matches": 57, 
-        "wr": 0.5263, 
-        "kda": 3.14
+        "matches": 61, 
+        "wr": 0.5246, 
+        "kda": 3.18
       }, 
       "Leshrac": {
-        "matches": 4, 
-        "wr": 0.75, 
-        "kda": 2.79
+        "matches": 5, 
+        "wr": 0.6, 
+        "kda": 2.24
       }, 
-      "Enigma": {
+      "Clinkz": {
         "matches": 1, 
         "wr": 1.0, 
-        "kda": 7.0
+        "kda": 2.17
       }, 
       "Beastmaster": {
         "matches": 3, 
@@ -544,9 +589,9 @@
         "kda": 2.67
       }, 
       "Luna": {
-        "matches": 1, 
-        "wr": 1.0, 
-        "kda": 2.86
+        "matches": 3, 
+        "wr": 0.3333, 
+        "kda": 2.31
       }, 
       "Bloodseeker": {
         "matches": 14, 
@@ -559,9 +604,9 @@
         "kda": 2.25
       }, 
       "Jakiro": {
-        "matches": 7, 
-        "wr": 0.2857, 
-        "kda": 1.72
+        "matches": 12, 
+        "wr": 0.16670000000000001, 
+        "kda": 1.41
       }, 
       "Silencer": {
         "matches": 14, 
@@ -577,6 +622,11 @@
         "matches": 13, 
         "wr": 0.3077, 
         "kda": 2.31
+      }, 
+      "Broodmother": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 0.25
       }, 
       "Ancient Apparition": {
         "matches": 25, 
@@ -594,19 +644,19 @@
         "kda": 4.25
       }, 
       "Techies": {
-        "matches": 5, 
-        "wr": 0.8, 
-        "kda": 2.47
+        "matches": 6, 
+        "wr": 0.8332999999999999, 
+        "kda": 2.31
       }, 
       "Shadow Shaman": {
         "matches": 9, 
         "wr": 0.6667000000000001, 
         "kda": 2.56
       }, 
-      "Lich": {
+      "Enigma": {
         "matches": 1, 
-        "wr": 0.0, 
-        "kda": 2.63
+        "wr": 1.0, 
+        "kda": 7.0
       }, 
       "Sand King": {
         "matches": 15, 
@@ -619,14 +669,14 @@
         "kda": 2.2
       }, 
       "Dark Seer": {
-        "matches": 7, 
-        "wr": 0.2857, 
-        "kda": 2.93
+        "matches": 8, 
+        "wr": 0.375, 
+        "kda": 3.18
       }, 
-      "Io": {
+      "Phantom Assassin": {
         "matches": 1, 
-        "wr": 0.0, 
-        "kda": 1.0
+        "wr": 1.0, 
+        "kda": 4.83
       }, 
       "Terrorblade": {
         "matches": 2, 
@@ -634,9 +684,9 @@
         "kda": 2.82
       }, 
       "Alchemist": {
-        "matches": 8, 
-        "wr": 0.5, 
-        "kda": 2.86
+        "matches": 10, 
+        "wr": 0.6, 
+        "kda": 3.0
       }, 
       "Batrider": {
         "matches": 20, 
@@ -644,9 +694,9 @@
         "kda": 2.59
       }, 
       "Brewmaster": {
-        "matches": 8, 
-        "wr": 0.5, 
-        "kda": 3.47
+        "matches": 9, 
+        "wr": 0.44439999999999996, 
+        "kda": 3.23
       }, 
       "Disruptor": {
         "matches": 1, 
@@ -654,9 +704,9 @@
         "kda": 8.33
       }, 
       "Spectre": {
-        "matches": 19, 
-        "wr": 0.8421, 
-        "kda": 5.3
+        "matches": 22, 
+        "wr": 0.8636, 
+        "kda": 5.45
       }, 
       "Clockwerk": {
         "matches": 5, 
@@ -664,9 +714,9 @@
         "kda": 4.45
       }, 
       "Kunkka": {
-        "matches": 34, 
-        "wr": 0.5588000000000001, 
-        "kda": 3.18
+        "matches": 35, 
+        "wr": 0.5714, 
+        "kda": 3.22
       }, 
       "Slardar": {
         "matches": 2, 
@@ -679,19 +729,19 @@
         "kda": 3.9
       }, 
       "Mirana": {
-        "matches": 64, 
-        "wr": 0.4531, 
-        "kda": 2.8
+        "matches": 75, 
+        "wr": 0.48, 
+        "kda": 2.89
       }, 
       "Treant Protector": {
+        "matches": 3, 
+        "wr": 0.6667000000000001, 
+        "kda": 2.05
+      }, 
+      "Elder Titan": {
         "matches": 2, 
         "wr": 0.5, 
-        "kda": 1.64
-      }, 
-      "Clinkz": {
-        "matches": 1, 
-        "wr": 1.0, 
-        "kda": 2.17
+        "kda": 2.53
       }, 
       "Dragon Knight": {
         "matches": 1, 
@@ -699,9 +749,9 @@
         "kda": 1.29
       }, 
       "Earthshaker": {
-        "matches": 20, 
-        "wr": 0.35, 
-        "kda": 2.07
+        "matches": 24, 
+        "wr": 0.375, 
+        "kda": 2.1
       }, 
       "Abaddon": {
         "matches": 1, 
@@ -709,19 +759,19 @@
         "kda": 2.33
       }, 
       "Pugna": {
-        "matches": 12, 
-        "wr": 0.5, 
+        "matches": 16, 
+        "wr": 0.4375, 
         "kda": 2.07
       }, 
       "Ember Spirit": {
-        "matches": 44, 
-        "wr": 0.47729999999999995, 
-        "kda": 3.44
+        "matches": 59, 
+        "wr": 0.5085000000000001, 
+        "kda": 3.63
       }, 
       "Lone Druid": {
-        "matches": 9, 
-        "wr": 0.3333, 
-        "kda": 3.26
+        "matches": 10, 
+        "wr": 0.3, 
+        "kda": 3.33
       }, 
       "Venomancer": {
         "matches": 5, 
@@ -729,44 +779,54 @@
         "kda": 2.68
       }, 
       "Nyx Assassin": {
-        "matches": 9, 
-        "wr": 0.5556, 
-        "kda": 3.37
+        "matches": 13, 
+        "wr": 0.3846, 
+        "kda": 2.82
       }, 
       "Shadow Fiend": {
         "matches": 9, 
         "wr": 0.5556, 
         "kda": 2.9
       }, 
-      "Morphling": {
+      "Templar Assassin": {
         "matches": 2, 
         "wr": 0.5, 
-        "kda": 3.36
+        "kda": 2.5
+      }, 
+      "Morphling": {
+        "matches": 6, 
+        "wr": 0.3333, 
+        "kda": 2.69
       }, 
       "Bounty Hunter": {
-        "matches": 3, 
-        "wr": 0.6667000000000001, 
-        "kda": 2.48
+        "matches": 4, 
+        "wr": 0.75, 
+        "kda": 2.55
       }, 
       "Death Prophet": {
-        "matches": 47, 
-        "wr": 0.7659999999999999, 
-        "kda": 4.02
+        "matches": 52, 
+        "wr": 0.75, 
+        "kda": 3.78
       }, 
       "Anti-Mage": {
-        "matches": 7, 
-        "wr": 0.2857, 
-        "kda": 1.52
+        "matches": 8, 
+        "wr": 0.375, 
+        "kda": 1.94
       }, 
       "Necrophos": {
-        "matches": 4, 
-        "wr": 1.0, 
-        "kda": 2.93
+        "matches": 11, 
+        "wr": 0.6364, 
+        "kda": 2.78
       }, 
-      "Phantom Assassin": {
+      "Lich": {
         "matches": 1, 
-        "wr": 1.0, 
-        "kda": 4.83
+        "wr": 0.0, 
+        "kda": 2.63
+      }, 
+      "Io": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 1.0
       }, 
       "Medusa": {
         "matches": 1, 
@@ -784,9 +844,9 @@
         "kda": 1.77
       }, 
       "Enchantress": {
-        "matches": 4, 
-        "wr": 0.75, 
-        "kda": 5.63
+        "matches": 6, 
+        "wr": 0.6667000000000001, 
+        "kda": 5.74
       }, 
       "Phantom Lancer": {
         "matches": 2, 
@@ -801,14 +861,14 @@
     }, 
     "matt": {
       "Ogre Magi": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 2.78
+        "matches": 6, 
+        "wr": 0.3333, 
+        "kda": 2.29
       }, 
       "Razor": {
-        "matches": 10, 
-        "wr": 0.4, 
-        "kda": 3.07
+        "matches": 11, 
+        "wr": 0.3636, 
+        "kda": 2.8
       }, 
       "Dazzle": {
         "matches": 1, 
@@ -816,34 +876,44 @@
         "kda": 0.14
       }, 
       "Naga Siren": {
-        "matches": 10, 
-        "wr": 0.4, 
-        "kda": 2.22
+        "matches": 12, 
+        "wr": 0.3333, 
+        "kda": 2.19
       }, 
       "Magnus": {
-        "matches": 13, 
-        "wr": 0.6923, 
-        "kda": 2.97
+        "matches": 24, 
+        "wr": 0.6667000000000001, 
+        "kda": 2.86
+      }, 
+      "Legion Commander": {
+        "matches": 1, 
+        "wr": 1.0, 
+        "kda": 2.21
       }, 
       "Undying": {
-        "matches": 3, 
-        "wr": 1.0, 
-        "kda": 6.83
+        "matches": 6, 
+        "wr": 0.6667000000000001, 
+        "kda": 3.79
       }, 
-      "Skywrath Mage": {
+      "Dragon Knight": {
         "matches": 1, 
-        "wr": 0.0, 
-        "kda": 2.5
+        "wr": 1.0, 
+        "kda": 7.25
       }, 
       "Witch Doctor": {
-        "matches": 8, 
-        "wr": 0.625, 
-        "kda": 2.18
+        "matches": 10, 
+        "wr": 0.5, 
+        "kda": 1.85
       }, 
-      "Nature's Prophet": {
+      "Elder Titan": {
         "matches": 1, 
         "wr": 1.0, 
-        "kda": 9.0
+        "kda": 22.0
+      }, 
+      "Nature's Prophet": {
+        "matches": 2, 
+        "wr": 1.0, 
+        "kda": 2.5
       }, 
       "Sniper": {
         "matches": 1, 
@@ -851,59 +921,69 @@
         "kda": 2.57
       }, 
       "Warlock": {
-        "matches": 41, 
-        "wr": 0.6829000000000001, 
-        "kda": 2.67
+        "matches": 58, 
+        "wr": 0.6724, 
+        "kda": 2.61
       }, 
-      "Pugna": {
-        "matches": 26, 
-        "wr": 0.46149999999999997, 
-        "kda": 2.4
-      }, 
-      "Crystal Maiden": {
-        "matches": 5, 
-        "wr": 0.6, 
-        "kda": 1.67
-      }, 
-      "Leshrac": {
+      "Spirit Breaker": {
         "matches": 2, 
         "wr": 0.0, 
-        "kda": 0.92
+        "kda": 1.76
+      }, 
+      "Phoenix": {
+        "matches": 6, 
+        "wr": 0.6667000000000001, 
+        "kda": 2.67
+      }, 
+      "Crystal Maiden": {
+        "matches": 7, 
+        "wr": 0.5714, 
+        "kda": 1.79
+      }, 
+      "Leshrac": {
+        "matches": 3, 
+        "wr": 0.0, 
+        "kda": 0.76
       }, 
       "Zeus": {
-        "matches": 14, 
-        "wr": 0.8571, 
-        "kda": 5.72
+        "matches": 22, 
+        "wr": 0.7726999999999999, 
+        "kda": 4.67
       }, 
       "Anti-Mage": {
-        "matches": 1, 
+        "matches": 2, 
         "wr": 0.0, 
-        "kda": 0.8
+        "kda": 0.45
       }, 
       "Bane": {
-        "matches": 3, 
-        "wr": 0.6667000000000001, 
-        "kda": 2.46
+        "matches": 7, 
+        "wr": 0.7143, 
+        "kda": 2.4
       }, 
       "Silencer": {
-        "matches": 3, 
-        "wr": 0.0, 
-        "kda": 1.54
+        "matches": 7, 
+        "wr": 0.2857, 
+        "kda": 1.86
       }, 
       "Tinker": {
         "matches": 4, 
         "wr": 0.25, 
         "kda": 2.34
       }, 
-      "Ancient Apparition": {
-        "matches": 8, 
-        "wr": 0.375, 
-        "kda": 2.82
+      "Enigma": {
+        "matches": 19, 
+        "wr": 0.47369999999999995, 
+        "kda": 3.17
       }, 
-      "Necrophos": {
-        "matches": 7, 
-        "wr": 0.4286, 
-        "kda": 3.04
+      "Tidehunter": {
+        "matches": 16, 
+        "wr": 0.375, 
+        "kda": 2.57
+      }, 
+      "Faceless Void": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 1.8
       }, 
       "Doom": {
         "matches": 2, 
@@ -911,29 +991,29 @@
         "kda": 1.69
       }, 
       "Lina": {
-        "matches": 5, 
-        "wr": 0.4, 
-        "kda": 1.98
+        "matches": 7, 
+        "wr": 0.2857, 
+        "kda": 1.6
       }, 
-      "Centaur Warrunner": {
-        "matches": 4, 
-        "wr": 0.75, 
-        "kda": 1.88
+      "Ancient Apparition": {
+        "matches": 14, 
+        "wr": 0.5, 
+        "kda": 2.62
       }, 
-      "Enigma": {
-        "matches": 6, 
-        "wr": 0.3333, 
-        "kda": 3.17
-      }, 
-      "Dark Seer": {
+      "Skywrath Mage": {
         "matches": 1, 
         "wr": 0.0, 
-        "kda": 0.91
+        "kda": 2.5
       }, 
-      "Elder Titan": {
+      "Dark Seer": {
+        "matches": 2, 
+        "wr": 0.5, 
+        "kda": 1.88
+      }, 
+      "Terrorblade": {
         "matches": 1, 
         "wr": 1.0, 
-        "kda": 22.0
+        "kda": 2.0
       }, 
       "Batrider": {
         "matches": 2, 
@@ -941,39 +1021,59 @@
         "kda": 0.88
       }, 
       "Spectre": {
-        "matches": 8, 
-        "wr": 0.5, 
-        "kda": 4.17
+        "matches": 11, 
+        "wr": 0.3636, 
+        "kda": 3.06
+      }, 
+      "Shadow Shaman": {
+        "matches": 3, 
+        "wr": 0.3333, 
+        "kda": 1.06
+      }, 
+      "Axe": {
+        "matches": 3, 
+        "wr": 0.6667000000000001, 
+        "kda": 2.9
       }, 
       "Weaver": {
-        "matches": 1, 
-        "wr": 1.0, 
-        "kda": 1.0
+        "matches": 7, 
+        "wr": 0.5714, 
+        "kda": 3.11
       }, 
       "Bristleback": {
-        "matches": 1, 
-        "wr": 1.0, 
-        "kda": 3.75
+        "matches": 4, 
+        "wr": 0.25, 
+        "kda": 2.86
       }, 
       "Lich": {
-        "matches": 7, 
-        "wr": 0.4286, 
-        "kda": 2.31
+        "matches": 12, 
+        "wr": 0.4167, 
+        "kda": 2.49
       }, 
       "Clinkz": {
-        "matches": 32, 
-        "wr": 0.7188, 
-        "kda": 2.84
+        "matches": 62, 
+        "wr": 0.6613, 
+        "kda": 2.76
       }, 
       "Earthshaker": {
         "matches": 1, 
         "wr": 1.0, 
         "kda": 3.0
       }, 
-      "Legion Commander": {
+      "Pugna": {
+        "matches": 41, 
+        "wr": 0.561, 
+        "kda": 2.67
+      }, 
+      "Puck": {
         "matches": 1, 
-        "wr": 1.0, 
-        "kda": 2.21
+        "wr": 0.0, 
+        "kda": 1.2
+      }, 
+      "Nyx Assassin": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 2.25
       }, 
       "Wraith King": {
         "matches": 4, 
@@ -986,29 +1086,34 @@
         "kda": 0.38
       }, 
       "Death Prophet": {
-        "matches": 34, 
-        "wr": 0.7059000000000001, 
-        "kda": 3.35
+        "matches": 44, 
+        "wr": 0.7273000000000001, 
+        "kda": 3.28
       }, 
       "Luna": {
-        "matches": 5, 
-        "wr": 0.8, 
-        "kda": 3.03
+        "matches": 6, 
+        "wr": 0.6667000000000001, 
+        "kda": 2.74
       }, 
-      "Tidehunter": {
-        "matches": 14, 
-        "wr": 0.4286, 
-        "kda": 2.75
+      "Necrophos": {
+        "matches": 12, 
+        "wr": 0.4167, 
+        "kda": 3.06
+      }, 
+      "Phantom Assassin": {
+        "matches": 3, 
+        "wr": 0.6667000000000001, 
+        "kda": 4.86
       }, 
       "Medusa": {
         "matches": 1, 
         "wr": 0.0, 
         "kda": 0.5
       }, 
-      "Shadow Shaman": {
-        "matches": 2, 
-        "wr": 0.0, 
-        "kda": 0.88
+      "Centaur Warrunner": {
+        "matches": 5, 
+        "wr": 0.6, 
+        "kda": 1.77
       }, 
       "Enchantress": {
         "matches": 1, 
@@ -1018,9 +1123,9 @@
     }, 
     "stu": {
       "Razor": {
-        "matches": 22, 
-        "wr": 0.6818000000000001, 
-        "kda": 4.45
+        "matches": 25, 
+        "wr": 0.68, 
+        "kda": 4.54
       }, 
       "Night Stalker": {
         "matches": 5, 
@@ -1037,10 +1142,10 @@
         "wr": 0.4, 
         "kda": 2.81
       }, 
-      "Outworld Devourer": {
-        "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 0.83
+      "Dragon Knight": {
+        "matches": 5, 
+        "wr": 0.8, 
+        "kda": 5.7
       }, 
       "Juggernaut": {
         "matches": 7, 
@@ -1053,9 +1158,9 @@
         "kda": 2.28
       }, 
       "Jakiro": {
-        "matches": 25, 
-        "wr": 0.48, 
-        "kda": 2.51
+        "matches": 26, 
+        "wr": 0.5, 
+        "kda": 2.52
       }, 
       "Pugna": {
         "matches": 1, 
@@ -1077,10 +1182,15 @@
         "wr": 0.0, 
         "kda": 1.0
       }, 
-      "Dragon Knight": {
+      "Chaos Knight": {
+        "matches": 2, 
+        "wr": 1.0, 
+        "kda": 5.0
+      }, 
+      "Outworld Devourer": {
         "matches": 3, 
-        "wr": 0.6667000000000001, 
-        "kda": 5.83
+        "wr": 0.3333, 
+        "kda": 0.83
       }, 
       "Abaddon": {
         "matches": 4, 
@@ -1093,14 +1203,19 @@
         "kda": 1.0
       }, 
       "Bristleback": {
-        "matches": 56, 
-        "wr": 0.7143, 
-        "kda": 4.51
+        "matches": 60, 
+        "wr": 0.7, 
+        "kda": 4.29
       }, 
       "Elder Titan": {
         "matches": 1, 
         "wr": 1.0, 
         "kda": 4.25
+      }, 
+      "Slardar": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 1.1
       }, 
       "Pudge": {
         "matches": 1, 
@@ -1128,9 +1243,9 @@
         "kda": 2.1
       }, 
       "Necrophos": {
-        "matches": 122, 
-        "wr": 0.6065999999999999, 
-        "kda": 3.92
+        "matches": 129, 
+        "wr": 0.6047, 
+        "kda": 3.95
       }, 
       "Medusa": {
         "matches": 4, 
@@ -1148,9 +1263,9 @@
         "kda": 3.86
       }, 
       "Witch Doctor": {
-        "matches": 25, 
-        "wr": 0.52, 
-        "kda": 3.19
+        "matches": 31, 
+        "wr": 0.5806, 
+        "kda": 3.14
       }, 
       "Riki": {
         "matches": 3, 
@@ -1183,9 +1298,9 @@
         "kda": 0.77
       }, 
       "Doom": {
-        "matches": 22, 
-        "wr": 0.5909, 
-        "kda": 3.45
+        "matches": 26, 
+        "wr": 0.6154, 
+        "kda": 3.48
       }, 
       "Lina": {
         "matches": 1, 
@@ -1228,14 +1343,14 @@
         "kda": 2.68
       }, 
       "Venomancer": {
-        "matches": 4, 
-        "wr": 0.5, 
-        "kda": 2.68
+        "matches": 5, 
+        "wr": 0.4, 
+        "kda": 2.33
       }, 
       "Death Prophet": {
-        "matches": 28, 
-        "wr": 0.6786, 
-        "kda": 4.12
+        "matches": 29, 
+        "wr": 0.6552, 
+        "kda": 3.95
       }, 
       "Lion": {
         "matches": 4, 
@@ -1243,14 +1358,14 @@
         "kda": 4.0
       }, 
       "Ogre Magi": {
-        "matches": 22, 
-        "wr": 0.6818000000000001, 
-        "kda": 3.76
+        "matches": 26, 
+        "wr": 0.6923, 
+        "kda": 3.68
       }, 
       "Dazzle": {
-        "matches": 15, 
-        "wr": 0.4667, 
-        "kda": 1.75
+        "matches": 17, 
+        "wr": 0.4118, 
+        "kda": 1.62
       }, 
       "Magnus": {
         "matches": 2, 
@@ -1273,19 +1388,19 @@
         "kda": 0.8
       }, 
       "Nature's Prophet": {
-        "matches": 74, 
-        "wr": 0.5676, 
+        "matches": 81, 
+        "wr": 0.5432, 
         "kda": 3.28
       }, 
       "Warlock": {
-        "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 1.74
+        "matches": 4, 
+        "wr": 0.5, 
+        "kda": 2.0
       }, 
       "Spirit Breaker": {
-        "matches": 85, 
-        "wr": 0.6118, 
-        "kda": 3.15
+        "matches": 87, 
+        "wr": 0.5977, 
+        "kda": 3.12
       }, 
       "Crystal Maiden": {
         "matches": 17, 
@@ -1293,19 +1408,19 @@
         "kda": 1.94
       }, 
       "Huskar": {
-        "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 1.46
+        "matches": 4, 
+        "wr": 0.5, 
+        "kda": 1.76
       }, 
       "Shadow Shaman": {
-        "matches": 23, 
-        "wr": 0.4783, 
-        "kda": 1.77
+        "matches": 25, 
+        "wr": 0.44, 
+        "kda": 1.7
       }, 
       "Lich": {
-        "matches": 23, 
-        "wr": 0.5217, 
-        "kda": 3.42
+        "matches": 26, 
+        "wr": 0.5385, 
+        "kda": 3.18
       }, 
       "Sand King": {
         "matches": 12, 
@@ -1348,9 +1463,9 @@
         "kda": 3.33
       }, 
       "Centaur Warrunner": {
-        "matches": 3, 
+        "matches": 5, 
         "wr": 1.0, 
-        "kda": 2.89
+        "kda": 3.73
       }, 
       "Disruptor": {
         "matches": 7, 
@@ -1423,9 +1538,9 @@
         "kda": 0.88
       }, 
       "Slark": {
-        "matches": 15, 
-        "wr": 0.5333, 
-        "kda": 4.13
+        "matches": 19, 
+        "wr": 0.47369999999999995, 
+        "kda": 3.64
       }, 
       "Weaver": {
         "matches": 5, 
@@ -1438,9 +1553,9 @@
         "kda": 2.75
       }, 
       "Treant Protector": {
-        "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 1.58
+        "matches": 5, 
+        "wr": 0.2, 
+        "kda": 1.05
       }, 
       "Visage": {
         "matches": 1, 
@@ -1463,26 +1578,26 @@
         "kda": 3.94
       }, 
       "Phantom Assassin": {
-        "matches": 1, 
+        "matches": 2, 
         "wr": 0.0, 
-        "kda": 2.0
+        "kda": 1.64
       }
     }, 
     "andy": {
       "Ogre Magi": {
-        "matches": 21, 
-        "wr": 0.4286, 
-        "kda": 2.64
+        "matches": 23, 
+        "wr": 0.43479999999999996, 
+        "kda": 2.55
       }, 
       "Disruptor": {
-        "matches": 16, 
-        "wr": 0.6875, 
-        "kda": 2.32
+        "matches": 19, 
+        "wr": 0.6842, 
+        "kda": 2.08
       }, 
       "Dazzle": {
-        "matches": 66, 
-        "wr": 0.6212, 
-        "kda": 1.56
+        "matches": 69, 
+        "wr": 0.6087, 
+        "kda": 1.54
       }, 
       "Night Stalker": {
         "matches": 3, 
@@ -1495,9 +1610,9 @@
         "kda": 2.57
       }, 
       "Phoenix": {
-        "matches": 5, 
-        "wr": 0.6, 
-        "kda": 3.11
+        "matches": 6, 
+        "wr": 0.5, 
+        "kda": 2.43
       }, 
       "Legion Commander": {
         "matches": 1, 
@@ -1510,19 +1625,24 @@
         "kda": 1.53
       }, 
       "Skywrath Mage": {
-        "matches": 12, 
-        "wr": 0.6667000000000001, 
-        "kda": 2.89
+        "matches": 13, 
+        "wr": 0.6154, 
+        "kda": 2.74
       }, 
       "Witch Doctor": {
-        "matches": 16, 
-        "wr": 0.625, 
-        "kda": 2.62
+        "matches": 17, 
+        "wr": 0.6470999999999999, 
+        "kda": 2.58
       }, 
       "Wraith King": {
         "matches": 1, 
         "wr": 1.0, 
         "kda": 9.0
+      }, 
+      "Oracle": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 1.25
       }, 
       "Pudge": {
         "matches": 4, 
@@ -1555,9 +1675,9 @@
         "kda": 0.97
       }, 
       "Windranger": {
-        "matches": 104, 
-        "wr": 0.5962, 
-        "kda": 2.33
+        "matches": 111, 
+        "wr": 0.5856, 
+        "kda": 2.3
       }, 
       "Sniper": {
         "matches": 1, 
@@ -1565,14 +1685,14 @@
         "kda": 1.14
       }, 
       "Warlock": {
-        "matches": 46, 
-        "wr": 0.6522, 
-        "kda": 2.34
+        "matches": 48, 
+        "wr": 0.6457999999999999, 
+        "kda": 2.31
       }, 
       "Jakiro": {
-        "matches": 61, 
-        "wr": 0.6065999999999999, 
-        "kda": 2.01
+        "matches": 69, 
+        "wr": 0.5797, 
+        "kda": 1.94
       }, 
       "Spirit Breaker": {
         "matches": 2, 
@@ -1580,9 +1700,9 @@
         "kda": 3.31
       }, 
       "Venomancer": {
-        "matches": 15, 
-        "wr": 0.5333, 
-        "kda": 2.13
+        "matches": 16, 
+        "wr": 0.5, 
+        "kda": 2.08
       }, 
       "Shadow Demon": {
         "matches": 1, 
@@ -1590,14 +1710,14 @@
         "kda": 1.86
       }, 
       "Crystal Maiden": {
-        "matches": 28, 
-        "wr": 0.5714, 
-        "kda": 1.79
-      }, 
-      "Leshrac": {
         "matches": 36, 
         "wr": 0.5832999999999999, 
-        "kda": 2.12
+        "kda": 1.78
+      }, 
+      "Leshrac": {
+        "matches": 38, 
+        "wr": 0.5789, 
+        "kda": 2.17
       }, 
       "Zeus": {
         "matches": 6, 
@@ -1620,19 +1740,24 @@
         "kda": 0.33
       }, 
       "Nature's Prophet": {
-        "matches": 25, 
-        "wr": 0.72, 
-        "kda": 2.38
+        "matches": 27, 
+        "wr": 0.7037, 
+        "kda": 2.47
       }, 
       "Bane": {
-        "matches": 23, 
-        "wr": 0.5652, 
-        "kda": 1.81
+        "matches": 28, 
+        "wr": 0.5357, 
+        "kda": 1.71
       }, 
-      "Slardar": {
+      "Silencer": {
+        "matches": 4, 
+        "wr": 0.5, 
+        "kda": 1.48
+      }, 
+      "Sven": {
         "matches": 1, 
         "wr": 0.0, 
-        "kda": 0.55
+        "kda": 0.58
       }, 
       "Tinker": {
         "matches": 27, 
@@ -1665,14 +1790,14 @@
         "kda": 3.57
       }, 
       "Vengeful Spirit": {
-        "matches": 20, 
-        "wr": 0.45, 
-        "kda": 1.55
+        "matches": 22, 
+        "wr": 0.5, 
+        "kda": 1.61
       }, 
       "Lina": {
-        "matches": 26, 
-        "wr": 0.3846, 
-        "kda": 1.4
+        "matches": 30, 
+        "wr": 0.4, 
+        "kda": 1.44
       }, 
       "Centaur Warrunner": {
         "matches": 30, 
@@ -1680,14 +1805,14 @@
         "kda": 2.53
       }, 
       "Lich": {
-        "matches": 33, 
-        "wr": 0.5455, 
+        "matches": 34, 
+        "wr": 0.5588000000000001, 
         "kda": 2.58
       }, 
-      "Omniknight": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 1.25
+      "Luna": {
+        "matches": 3, 
+        "wr": 0.6667000000000001, 
+        "kda": 1.41
       }, 
       "Earth Spirit": {
         "matches": 1, 
@@ -1695,19 +1820,19 @@
         "kda": 1.83
       }, 
       "Dark Seer": {
-        "matches": 137, 
-        "wr": 0.6131, 
-        "kda": 2.85
+        "matches": 142, 
+        "wr": 0.6197, 
+        "kda": 2.9
       }, 
       "Phantom Assassin": {
         "matches": 2, 
         "wr": 0.0, 
         "kda": 1.52
       }, 
-      "Clockwerk": {
-        "matches": 2, 
-        "wr": 0.5, 
-        "kda": 2.2
+      "Slardar": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 0.55
       }, 
       "Chaos Knight": {
         "matches": 3, 
@@ -1730,9 +1855,9 @@
         "kda": 1.44
       }, 
       "Abaddon": {
-        "matches": 13, 
-        "wr": 0.5385, 
-        "kda": 2.05
+        "matches": 20, 
+        "wr": 0.55, 
+        "kda": 1.83
       }, 
       "Kunkka": {
         "matches": 5, 
@@ -1754,20 +1879,20 @@
         "wr": 0.0, 
         "kda": 1.59
       }, 
+      "Weaver": {
+        "matches": 1, 
+        "wr": 1.0, 
+        "kda": 4.17
+      }, 
       "Spectre": {
         "matches": 2, 
         "wr": 0.0, 
         "kda": 1.59
       }, 
-      "Sven": {
-        "matches": 1, 
-        "wr": 0.0, 
-        "kda": 0.58
-      }, 
       "Treant Protector": {
-        "matches": 37, 
-        "wr": 0.4865, 
-        "kda": 1.09
+        "matches": 40, 
+        "wr": 0.525, 
+        "kda": 1.12
       }, 
       "Lifestealer": {
         "matches": 1, 
@@ -1778,6 +1903,11 @@
         "matches": 8, 
         "wr": 0.75, 
         "kda": 2.73
+      }, 
+      "Omniknight": {
+        "matches": 2, 
+        "wr": 0.5, 
+        "kda": 1.33
       }, 
       "Visage": {
         "matches": 15, 
@@ -1799,10 +1929,10 @@
         "wr": 0.2727, 
         "kda": 1.86
       }, 
-      "Luna": {
+      "Clockwerk": {
         "matches": 3, 
         "wr": 0.6667000000000001, 
-        "kda": 1.41
+        "kda": 2.54
       }, 
       "Bounty Hunter": {
         "matches": 6, 
@@ -1810,9 +1940,9 @@
         "kda": 2.62
       }, 
       "Death Prophet": {
-        "matches": 5, 
-        "wr": 0.4, 
-        "kda": 1.58
+        "matches": 6, 
+        "wr": 0.3333, 
+        "kda": 1.67
       }, 
       "Lion": {
         "matches": 10, 
@@ -1820,14 +1950,14 @@
         "kda": 1.28
       }, 
       "Keeper of the Light": {
-        "matches": 43, 
-        "wr": 0.5349, 
-        "kda": 1.93
+        "matches": 52, 
+        "wr": 0.5, 
+        "kda": 1.89
       }, 
       "Tidehunter": {
-        "matches": 21, 
-        "wr": 0.5714, 
-        "kda": 1.94
+        "matches": 22, 
+        "wr": 0.5455, 
+        "kda": 1.88
       }, 
       "Techies": {
         "matches": 5, 
@@ -1835,8 +1965,8 @@
         "kda": 1.06
       }, 
       "Io": {
-        "matches": 23, 
-        "wr": 0.39130000000000004, 
+        "matches": 26, 
+        "wr": 0.46149999999999997, 
         "kda": 1.32
       }, 
       "Chen": {
@@ -1845,9 +1975,9 @@
         "kda": 1.59
       }, 
       "Shadow Shaman": {
-        "matches": 48, 
-        "wr": 0.4792, 
-        "kda": 1.44
+        "matches": 49, 
+        "wr": 0.48979999999999996, 
+        "kda": 1.45
       }, 
       "Rubick": {
         "matches": 70, 
@@ -1877,14 +2007,14 @@
         "kda": 3.17
       }, 
       "Dazzle": {
-        "matches": 6, 
-        "wr": 0.5, 
-        "kda": 1.94
+        "matches": 7, 
+        "wr": 0.5714, 
+        "kda": 1.93
       }, 
-      "Juggernaut": {
+      "Timbersaw": {
         "matches": 5, 
-        "wr": 0.8, 
-        "kda": 4.0
+        "wr": 0.2, 
+        "kda": 1.83
       }, 
       "Naga Siren": {
         "matches": 1, 
@@ -1902,9 +2032,9 @@
         "kda": 1.94
       }, 
       "Earth Spirit": {
-        "matches": 49, 
-        "wr": 0.5918, 
-        "kda": 2.4
+        "matches": 61, 
+        "wr": 0.6557, 
+        "kda": 2.7
       }, 
       "Outworld Devourer": {
         "matches": 13, 
@@ -1912,9 +2042,9 @@
         "kda": 3.41
       }, 
       "Tiny": {
-        "matches": 1, 
+        "matches": 2, 
         "wr": 0.0, 
-        "kda": 0.5
+        "kda": 1.08
       }, 
       "Riki": {
         "matches": 30, 
@@ -1922,19 +2052,19 @@
         "kda": 2.81
       }, 
       "Pudge": {
-        "matches": 81, 
-        "wr": 0.6296, 
-        "kda": 2.41
+        "matches": 87, 
+        "wr": 0.6092, 
+        "kda": 2.35
       }, 
       "Viper": {
-        "matches": 5, 
-        "wr": 0.4, 
-        "kda": 2.34
+        "matches": 6, 
+        "wr": 0.5, 
+        "kda": 2.82
       }, 
       "Storm Spirit": {
-        "matches": 37, 
-        "wr": 0.6757, 
-        "kda": 3.16
+        "matches": 39, 
+        "wr": 0.6409999999999999, 
+        "kda": 3.03
       }, 
       "Sniper": {
         "matches": 4, 
@@ -1947,9 +2077,14 @@
         "kda": 2.14
       }, 
       "Venomancer": {
-        "matches": 21, 
-        "wr": 0.7143, 
+        "matches": 33, 
+        "wr": 0.6970000000000001, 
         "kda": 2.86
+      }, 
+      "Chaos Knight": {
+        "matches": 1, 
+        "wr": 1.0, 
+        "kda": 4.0
       }, 
       "Zeus": {
         "matches": 1, 
@@ -1962,29 +2097,29 @@
         "kda": 1.6
       }, 
       "Gyrocopter": {
-        "matches": 15, 
-        "wr": 0.2667, 
-        "kda": 1.64
+        "matches": 16, 
+        "wr": 0.25, 
+        "kda": 1.59
       }, 
       "Broodmother": {
-        "matches": 26, 
-        "wr": 0.5, 
-        "kda": 2.11
+        "matches": 27, 
+        "wr": 0.4815, 
+        "kda": 2.05
       }, 
       "Ancient Apparition": {
-        "matches": 6, 
-        "wr": 0.6667000000000001, 
-        "kda": 2.41
+        "matches": 9, 
+        "wr": 0.5556, 
+        "kda": 2.17
       }, 
       "Huskar": {
         "matches": 5, 
         "wr": 0.2, 
         "kda": 1.62
       }, 
-      "Tidehunter": {
+      "Necrophos": {
         "matches": 2, 
-        "wr": 1.0, 
-        "kda": 5.27
+        "wr": 0.5, 
+        "kda": 4.83
       }, 
       "Techies": {
         "matches": 2, 
@@ -1996,35 +2131,30 @@
         "wr": 0.5660000000000001, 
         "kda": 1.65
       }, 
+      "Sand King": {
+        "matches": 37, 
+        "wr": 0.4865, 
+        "kda": 2.15
+      }, 
       "Undying": {
         "matches": 1, 
         "wr": 1.0, 
         "kda": 2.67
-      }, 
-      "Sand King": {
-        "matches": 28, 
-        "wr": 0.4643, 
-        "kda": 2.1
-      }, 
-      "Chaos Knight": {
-        "matches": 1, 
-        "wr": 1.0, 
-        "kda": 4.0
       }, 
       "Io": {
         "matches": 1, 
         "wr": 0.0, 
         "kda": 0.89
       }, 
-      "Timbersaw": {
-        "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 2.63
+      "Elder Titan": {
+        "matches": 1, 
+        "wr": 0.0, 
+        "kda": 1.0
       }, 
       "Batrider": {
-        "matches": 12, 
-        "wr": 0.4167, 
-        "kda": 2.88
+        "matches": 14, 
+        "wr": 0.4286, 
+        "kda": 2.68
       }, 
       "Dragon Knight": {
         "matches": 1, 
@@ -2032,9 +2162,9 @@
         "kda": 1.5
       }, 
       "Clockwerk": {
-        "matches": 27, 
-        "wr": 0.6667000000000001, 
-        "kda": 2.85
+        "matches": 29, 
+        "wr": 0.6897, 
+        "kda": 2.94
       }, 
       "Kunkka": {
         "matches": 12, 
@@ -2042,14 +2172,19 @@
         "kda": 2.19
       }, 
       "Faceless Void": {
-        "matches": 26, 
-        "wr": 0.5769, 
-        "kda": 2.07
+        "matches": 29, 
+        "wr": 0.5517, 
+        "kda": 2.21
+      }, 
+      "Oracle": {
+        "matches": 9, 
+        "wr": 0.7778, 
+        "kda": 2.89
       }, 
       "Weaver": {
-        "matches": 15, 
-        "wr": 0.7333, 
-        "kda": 4.15
+        "matches": 17, 
+        "wr": 0.7059000000000001, 
+        "kda": 3.53
       }, 
       "Drow Ranger": {
         "matches": 1, 
@@ -2067,19 +2202,24 @@
         "kda": 1.9
       }, 
       "Earthshaker": {
-        "matches": 52, 
-        "wr": 0.5192, 
-        "kda": 2.46
+        "matches": 54, 
+        "wr": 0.5185, 
+        "kda": 2.51
       }, 
       "Omniknight": {
         "matches": 6, 
         "wr": 0.3333, 
         "kda": 1.09
       }, 
+      "Juggernaut": {
+        "matches": 5, 
+        "wr": 0.8, 
+        "kda": 4.0
+      }, 
       "Puck": {
-        "matches": 47, 
-        "wr": 0.4681, 
-        "kda": 2.45
+        "matches": 61, 
+        "wr": 0.40979999999999994, 
+        "kda": 2.57
       }, 
       "Nyx Assassin": {
         "matches": 13, 
@@ -2097,9 +2237,9 @@
         "kda": 1.44
       }, 
       "Morphling": {
-        "matches": 36, 
-        "wr": 0.4722, 
-        "kda": 3.65
+        "matches": 40, 
+        "wr": 0.45, 
+        "kda": 3.48
       }, 
       "Bounty Hunter": {
         "matches": 21, 
@@ -2112,19 +2252,19 @@
         "kda": 1.74
       }, 
       "Anti-Mage": {
-        "matches": 4, 
-        "wr": 0.75, 
-        "kda": 3.24
+        "matches": 7, 
+        "wr": 0.5714, 
+        "kda": 2.61
       }, 
       "Keeper of the Light": {
         "matches": 26, 
         "wr": 0.5, 
         "kda": 2.32
       }, 
-      "Necrophos": {
+      "Tidehunter": {
         "matches": 2, 
-        "wr": 0.5, 
-        "kda": 4.83
+        "wr": 1.0, 
+        "kda": 5.27
       }, 
       "Phantom Assassin": {
         "matches": 1, 
@@ -2144,9 +2284,9 @@
     }, 
     "jon": {
       "Razor": {
-        "matches": 2, 
-        "wr": 0.5, 
-        "kda": 2.48
+        "matches": 5, 
+        "wr": 0.6, 
+        "kda": 3.53
       }, 
       "Night Stalker": {
         "matches": 6, 
@@ -2154,39 +2294,39 @@
         "kda": 2.94
       }, 
       "Naga Siren": {
-        "matches": 1, 
+        "matches": 2, 
         "wr": 0.0, 
-        "kda": 2.33
+        "kda": 2.56
       }, 
       "Undying": {
         "matches": 1, 
         "wr": 1.0, 
         "kda": 4.0
       }, 
-      "Dragon Knight": {
-        "matches": 16, 
+      "Outworld Devourer": {
+        "matches": 10, 
         "wr": 0.5, 
-        "kda": 3.88
+        "kda": 1.97
       }, 
       "Juggernaut": {
-        "matches": 31, 
-        "wr": 0.45159999999999995, 
-        "kda": 2.98
+        "matches": 39, 
+        "wr": 0.5128, 
+        "kda": 3.34
       }, 
       "Ursa": {
-        "matches": 22, 
-        "wr": 0.6818000000000001, 
-        "kda": 3.69
+        "matches": 24, 
+        "wr": 0.6667000000000001, 
+        "kda": 3.6
       }, 
       "Bane": {
-        "matches": 9, 
-        "wr": 0.7778, 
-        "kda": 3.36
+        "matches": 13, 
+        "wr": 0.7692, 
+        "kda": 3.56
       }, 
       "Pugna": {
-        "matches": 53, 
-        "wr": 0.6038, 
-        "kda": 3.18
+        "matches": 55, 
+        "wr": 0.6, 
+        "kda": 3.14
       }, 
       "Tinker": {
         "matches": 8, 
@@ -2194,24 +2334,24 @@
         "kda": 1.65
       }, 
       "Ancient Apparition": {
-        "matches": 41, 
-        "wr": 0.6829000000000001, 
-        "kda": 3.46
+        "matches": 45, 
+        "wr": 0.6667000000000001, 
+        "kda": 3.48
       }, 
       "Omniknight": {
-        "matches": 13, 
-        "wr": 0.3077, 
-        "kda": 1.63
+        "matches": 17, 
+        "wr": 0.2353, 
+        "kda": 1.87
       }, 
       "Chaos Knight": {
         "matches": 7, 
         "wr": 0.5714, 
         "kda": 2.02
       }, 
-      "Outworld Devourer": {
-        "matches": 10, 
+      "Dragon Knight": {
+        "matches": 16, 
         "wr": 0.5, 
-        "kda": 1.97
+        "kda": 3.88
       }, 
       "Abaddon": {
         "matches": 2, 
@@ -2219,14 +2359,14 @@
         "kda": 3.5
       }, 
       "Faceless Void": {
-        "matches": 24, 
-        "wr": 0.5417000000000001, 
-        "kda": 3.82
+        "matches": 29, 
+        "wr": 0.5517, 
+        "kda": 3.94
       }, 
       "Mirana": {
-        "matches": 37, 
-        "wr": 0.5405, 
-        "kda": 4.61
+        "matches": 39, 
+        "wr": 0.5640999999999999, 
+        "kda": 4.64
       }, 
       "Bristleback": {
         "matches": 3, 
@@ -2244,14 +2384,14 @@
         "kda": 2.0
       }, 
       "Templar Assassin": {
-        "matches": 1, 
+        "matches": 2, 
         "wr": 1.0, 
         "kda": 5.0
       }, 
       "Shadow Demon": {
-        "matches": 11, 
-        "wr": 0.3636, 
-        "kda": 2.62
+        "matches": 14, 
+        "wr": 0.35710000000000003, 
+        "kda": 2.61
       }, 
       "Anti-Mage": {
         "matches": 4, 
@@ -2259,9 +2399,9 @@
         "kda": 2.57
       }, 
       "Keeper of the Light": {
-        "matches": 11, 
-        "wr": 0.4545, 
-        "kda": 2.67
+        "matches": 12, 
+        "wr": 0.5, 
+        "kda": 2.57
       }, 
       "Necrophos": {
         "matches": 4, 
@@ -2274,9 +2414,9 @@
         "kda": 3.08
       }, 
       "Medusa": {
-        "matches": 8, 
-        "wr": 0.625, 
-        "kda": 4.06
+        "matches": 11, 
+        "wr": 0.5455, 
+        "kda": 4.45
       }, 
       "Lone Druid": {
         "matches": 1, 
@@ -2284,39 +2424,39 @@
         "kda": 1.86
       }, 
       "Phantom Lancer": {
-        "matches": 35, 
-        "wr": 0.6, 
-        "kda": 4.63
+        "matches": 36, 
+        "wr": 0.5832999999999999, 
+        "kda": 4.58
       }, 
       "Witch Doctor": {
-        "matches": 9, 
-        "wr": 0.5556, 
-        "kda": 1.99
+        "matches": 10, 
+        "wr": 0.5, 
+        "kda": 2.01
       }, 
       "Riki": {
-        "matches": 7, 
-        "wr": 0.2857, 
-        "kda": 3.0
+        "matches": 10, 
+        "wr": 0.3, 
+        "kda": 2.72
       }, 
       "Invoker": {
-        "matches": 5, 
-        "wr": 0.4, 
-        "kda": 3.89
+        "matches": 9, 
+        "wr": 0.44439999999999996, 
+        "kda": 3.53
       }, 
       "Sniper": {
-        "matches": 22, 
-        "wr": 0.7273000000000001, 
-        "kda": 5.1
+        "matches": 23, 
+        "wr": 0.7391, 
+        "kda": 5.25
       }, 
       "Leshrac": {
-        "matches": 2, 
-        "wr": 0.5, 
-        "kda": 0.76
+        "matches": 3, 
+        "wr": 0.6667000000000001, 
+        "kda": 1.45
       }, 
       "Zeus": {
-        "matches": 22, 
-        "wr": 0.5455, 
-        "kda": 3.44
+        "matches": 23, 
+        "wr": 0.5652, 
+        "kda": 3.58
       }, 
       "Silencer": {
         "matches": 7, 
@@ -2329,24 +2469,24 @@
         "kda": 1.07
       }, 
       "Enigma": {
-        "matches": 25, 
-        "wr": 0.6, 
-        "kda": 3.3
+        "matches": 27, 
+        "wr": 0.5926, 
+        "kda": 3.19
       }, 
       "Doom": {
-        "matches": 2, 
+        "matches": 3, 
         "wr": 0.0, 
-        "kda": 2.92
+        "kda": 2.53
       }, 
       "Techies": {
-        "matches": 5, 
-        "wr": 0.2, 
-        "kda": 2.77
+        "matches": 6, 
+        "wr": 0.16670000000000001, 
+        "kda": 2.58
       }, 
       "Alchemist": {
-        "matches": 4, 
-        "wr": 0.5, 
-        "kda": 1.88
+        "matches": 5, 
+        "wr": 0.4, 
+        "kda": 1.89
       }, 
       "Batrider": {
         "matches": 7, 
@@ -2369,9 +2509,9 @@
         "kda": 2.08
       }, 
       "Clinkz": {
-        "matches": 9, 
-        "wr": 0.22219999999999998, 
-        "kda": 1.62
+        "matches": 10, 
+        "wr": 0.2, 
+        "kda": 1.64
       }, 
       "Gyrocopter": {
         "matches": 2, 
@@ -2379,9 +2519,9 @@
         "kda": 2.0
       }, 
       "Venomancer": {
-        "matches": 26, 
-        "wr": 0.46149999999999997, 
-        "kda": 3.5
+        "matches": 27, 
+        "wr": 0.4815, 
+        "kda": 3.49
       }, 
       "Morphling": {
         "matches": 2, 
@@ -2394,14 +2534,14 @@
         "kda": 5.0
       }, 
       "Lion": {
-        "matches": 8, 
+        "matches": 16, 
         "wr": 0.375, 
-        "kda": 1.69
+        "kda": 2.19
       }, 
       "Ogre Magi": {
-        "matches": 1, 
+        "matches": 2, 
         "wr": 1.0, 
-        "kda": 2.88
+        "kda": 2.64
       }, 
       "Dazzle": {
         "matches": 17, 
@@ -2419,14 +2559,14 @@
         "kda": 2.75
       }, 
       "Nature's Prophet": {
-        "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 1.6
+        "matches": 4, 
+        "wr": 0.25, 
+        "kda": 1.35
       }, 
       "Warlock": {
-        "matches": 27, 
-        "wr": 0.44439999999999996, 
-        "kda": 2.2
+        "matches": 29, 
+        "wr": 0.4138, 
+        "kda": 2.11
       }, 
       "Spirit Breaker": {
         "matches": 1, 
@@ -2439,19 +2579,19 @@
         "kda": 2.75
       }, 
       "Sven": {
-        "matches": 18, 
+        "matches": 20, 
         "wr": 0.5, 
-        "kda": 3.08
+        "kda": 3.16
       }, 
       "Huskar": {
-        "matches": 9, 
-        "wr": 0.22219999999999998, 
-        "kda": 2.29
+        "matches": 10, 
+        "wr": 0.3, 
+        "kda": 2.35
       }, 
-      "Centaur Warrunner": {
-        "matches": 13, 
-        "wr": 0.5385, 
-        "kda": 4.43
+      "Shadow Shaman": {
+        "matches": 17, 
+        "wr": 0.5882000000000001, 
+        "kda": 1.76
       }, 
       "Treant Protector": {
         "matches": 1, 
@@ -2459,9 +2599,9 @@
         "kda": 0.13
       }, 
       "Sand King": {
-        "matches": 50, 
-        "wr": 0.6, 
-        "kda": 3.6
+        "matches": 59, 
+        "wr": 0.5763, 
+        "kda": 3.63
       }, 
       "Dark Seer": {
         "matches": 1, 
@@ -2469,19 +2609,19 @@
         "kda": 8.0
       }, 
       "Lifestealer": {
-        "matches": 29, 
-        "wr": 0.3103, 
-        "kda": 3.1
+        "matches": 32, 
+        "wr": 0.3125, 
+        "kda": 3.26
       }, 
       "Tiny": {
-        "matches": 6, 
-        "wr": 0.3333, 
-        "kda": 2.76
+        "matches": 7, 
+        "wr": 0.4286, 
+        "kda": 3.08
       }, 
       "Earthshaker": {
-        "matches": 3, 
-        "wr": 0.0, 
-        "kda": 1.04
+        "matches": 10, 
+        "wr": 0.3, 
+        "kda": 2.87
       }, 
       "Puck": {
         "matches": 8, 
@@ -2494,14 +2634,14 @@
         "kda": 1.92
       }, 
       "Luna": {
-        "matches": 7, 
-        "wr": 0.7143, 
-        "kda": 6.76
+        "matches": 8, 
+        "wr": 0.75, 
+        "kda": 7.29
       }, 
-      "Shadow Shaman": {
-        "matches": 17, 
-        "wr": 0.5882000000000001, 
-        "kda": 1.76
+      "Centaur Warrunner": {
+        "matches": 18, 
+        "wr": 0.6111, 
+        "kda": 4.64
       }, 
       "Disruptor": {
         "matches": 5, 
@@ -2519,9 +2659,9 @@
         "kda": 5.56
       }, 
       "Viper": {
-        "matches": 10, 
-        "wr": 0.4, 
-        "kda": 4.47
+        "matches": 14, 
+        "wr": 0.4286, 
+        "kda": 5.15
       }, 
       "Lycan": {
         "matches": 30, 
@@ -2529,9 +2669,9 @@
         "kda": 4.7
       }, 
       "Beastmaster": {
-        "matches": 3, 
-        "wr": 0.3333, 
-        "kda": 2.64
+        "matches": 4, 
+        "wr": 0.25, 
+        "kda": 2.3
       }, 
       "Bloodseeker": {
         "matches": 88, 
@@ -2539,14 +2679,14 @@
         "kda": 3.57
       }, 
       "Jakiro": {
-        "matches": 2, 
+        "matches": 5, 
         "wr": 0.0, 
-        "kda": 1.24
+        "kda": 1.22
       }, 
       "Windranger": {
-        "matches": 8, 
-        "wr": 0.625, 
-        "kda": 2.89
+        "matches": 9, 
+        "wr": 0.5556, 
+        "kda": 2.76
       }, 
       "Drow Ranger": {
         "matches": 14, 
@@ -2554,14 +2694,14 @@
         "kda": 2.87
       }, 
       "Vengeful Spirit": {
-        "matches": 51, 
-        "wr": 0.5686, 
-        "kda": 2.26
+        "matches": 79, 
+        "wr": 0.6329, 
+        "kda": 2.4
       }, 
       "Terrorblade": {
-        "matches": 2, 
-        "wr": 0.5, 
-        "kda": 1.64
+        "matches": 5, 
+        "wr": 0.4, 
+        "kda": 1.84
       }, 
       "Spectre": {
         "matches": 9, 
@@ -2574,24 +2714,24 @@
         "kda": 2.38
       }, 
       "Slark": {
-        "matches": 13, 
-        "wr": 0.3846, 
-        "kda": 2.76
+        "matches": 19, 
+        "wr": 0.2632, 
+        "kda": 2.98
       }, 
       "Weaver": {
-        "matches": 2, 
-        "wr": 0.0, 
-        "kda": 4.11
+        "matches": 9, 
+        "wr": 0.3333, 
+        "kda": 4.36
       }, 
       "Troll Warlord": {
-        "matches": 1, 
+        "matches": 2, 
         "wr": 0.0, 
-        "kda": 0.62
+        "kda": 0.96
       }, 
       "Lich": {
-        "matches": 10, 
-        "wr": 0.5, 
-        "kda": 4.84
+        "matches": 11, 
+        "wr": 0.4545, 
+        "kda": 3.96
       }, 
       "Visage": {
         "matches": 3, 
@@ -2599,9 +2739,9 @@
         "kda": 1.6
       }, 
       "Ember Spirit": {
-        "matches": 15, 
-        "wr": 0.6, 
-        "kda": 3.98
+        "matches": 16, 
+        "wr": 0.5625, 
+        "kda": 3.67
       }, 
       "Legion Commander": {
         "matches": 6, 
@@ -2609,19 +2749,19 @@
         "kda": 3.5
       }, 
       "Wraith King": {
-        "matches": 26, 
-        "wr": 0.6154, 
-        "kda": 5.14
+        "matches": 28, 
+        "wr": 0.6071, 
+        "kda": 5.01
       }, 
       "Tidehunter": {
-        "matches": 16, 
-        "wr": 0.5625, 
-        "kda": 3.51
+        "matches": 20, 
+        "wr": 0.55, 
+        "kda": 3.74
       }, 
       "Phantom Assassin": {
-        "matches": 92, 
-        "wr": 0.5978, 
-        "kda": 5.9
+        "matches": 116, 
+        "wr": 0.5861999999999999, 
+        "kda": 6.1
       }, 
       "Chen": {
         "matches": 1, 
@@ -2629,11 +2769,11 @@
         "kda": 0.63
       }, 
       "Rubick": {
-        "matches": 8, 
-        "wr": 0.25, 
-        "kda": 1.41
+        "matches": 19, 
+        "wr": 0.2632, 
+        "kda": 1.54
       }
     }
   }, 
-  "time": 1416426330
+  "time": 1421353943
 }

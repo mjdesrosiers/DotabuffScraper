@@ -1,0 +1,120 @@
+==== [Using cached data 0 hours old] ====
+at minimum of 1 matches, person best at most heroes is ['brian', 'jon'] with 17
+at minimum of 2 matches, person best at most heroes is mike with 19
+at minimum of 3 matches, person best at most heroes is brian with 17
+at minimum of 4 matches, person best at most heroes is brian with 18
+at minimum of 5 matches, person best at most heroes is andy with 16
+at minimum of 6 matches, person best at most heroes is ['andy', 'jon'] with 16
+at minimum of 7 matches, person best at most heroes is jon with 17
+at minimum of 8 matches, person best at most heroes is ['andy', 'jon'] with 15
+at minimum of 9 matches, person best at most heroes is jon with 16
+at minimum of 10 matches, person best at most heroes is jon with 16
+at minimum of 11 matches, person best at most heroes is jon with 16
+at minimum of 12 matches, person best at most heroes is jon with 16
+at minimum of 13 matches, person best at most heroes is jon with 15
+at minimum of 14 matches, person best at most heroes is jon with 16
+at minimum of 15 matches, person best at most heroes is jon with 17
+at minimum of 16 matches, person best at most heroes is jon with 16
+at minimum of 17 matches, person best at most heroes is jon with 15
+at minimum of 18 matches, person best at most heroes is jon with 14
+at minimum of 19 matches, person best at most heroes is jon with 14
+at minimum of 20 matches, person best at most heroes is jon with 15
+at minimum of 21 matches, person best at most heroes is jon with 15
+at minimum of 22 matches, person best at most heroes is jon with 15
+at minimum of 23 matches, person best at most heroes is jon with 13
+at minimum of 24 matches, person best at most heroes is jon with 12
+at minimum of 25 matches, person best at most heroes is jon with 12
+at minimum of 26 matches, person best at most heroes is jon with 13
+at minimum of 27 matches, person best at most heroes is jon with 12
+at minimum of 28 matches, person best at most heroes is jon with 11
+at minimum of 29 matches, person best at most heroes is jon with 10
+at minimum of 30 matches, person best at most heroes is jon with 9
+at minimum of 31 matches, person best at most heroes is jon with 9
+at minimum of 32 matches, person best at most heroes is jon with 8
+at minimum of 33 matches, person best at most heroes is jon with 8
+at minimum of 34 matches, person best at most heroes is jon with 8
+at minimum of 35 matches, person best at most heroes is jon with 8
+at minimum of 36 matches, person best at most heroes is jon with 7
+at minimum of 37 matches, person best at most heroes is jon with 7
+at minimum of 38 matches, person best at most heroes is ['andy', 'jon'] with 6
+at minimum of 39 matches, person best at most heroes is ['andy', 'jon'] with 6
+at minimum of 40 matches, person best at most heroes is jon with 6
+at minimum of 41 matches, person best at most heroes is jon with 6
+at minimum of 42 matches, person best at most heroes is ['andy', 'jon'] with 5
+at minimum of 43 matches, person best at most heroes is ['andy', 'jon'] with 5
+at minimum of 44 matches, person best at most heroes is ['andy', 'jon'] with 5
+at minimum of 45 matches, person best at most heroes is jon with 5
+at minimum of 46 matches, person best at most heroes is jon with 5
+at minimum of 47 matches, person best at most heroes is jon with 5
+at minimum of 48 matches, person best at most heroes is jon with 5
+at minimum of 49 matches, person best at most heroes is jon with 5
+at minimum of 50 matches, person best at most heroes is jon with 5
+at minimum of 51 matches, person best at most heroes is jon with 5
+at minimum of 52 matches, person best at most heroes is jon with 5
+at minimum of 53 matches, person best at most heroes is jon with 5
+at minimum of 54 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 4
+at minimum of 55 matches, person best at most heroes is ['stu', 'andy'] with 4
+at minimum of 56 matches, person best at most heroes is ['stu', 'andy'] with 4
+at minimum of 57 matches, person best at most heroes is ['stu', 'andy'] with 4
+at minimum of 58 matches, person best at most heroes is ['stu', 'andy'] with 4
+at minimum of 59 matches, person best at most heroes is andy with 4
+at minimum of 60 matches, person best at most heroes is andy with 4
+at minimum of 61 matches, person best at most heroes is andy with 4
+at minimum of 62 matches, person best at most heroes is andy with 4
+at minimum of 63 matches, person best at most heroes is andy with 4
+at minimum of 64 matches, person best at most heroes is andy with 4
+at minimum of 65 matches, person best at most heroes is andy with 4
+at minimum of 66 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 3
+at minimum of 67 matches, person best at most heroes is stu with 3
+at minimum of 68 matches, person best at most heroes is stu with 3
+at minimum of 69 matches, person best at most heroes is stu with 3
+at minimum of 70 matches, person best at most heroes is stu with 3
+at minimum of 71 matches, person best at most heroes is stu with 3
+at minimum of 72 matches, person best at most heroes is stu with 3
+at minimum of 73 matches, person best at most heroes is stu with 3
+at minimum of 74 matches, person best at most heroes is stu with 3
+at minimum of 75 matches, person best at most heroes is stu with 3
+at minimum of 76 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 2
+at minimum of 77 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 2
+at minimum of 78 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 2
+at minimum of 79 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 2
+at minimum of 80 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 2
+at minimum of 81 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 2
+at minimum of 82 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 2
+at minimum of 83 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 2
+at minimum of 84 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 2
+at minimum of 85 matches, person best at most heroes is ['andy', 'jon'] with 2
+at minimum of 86 matches, person best at most heroes is ['andy', 'jon'] with 2
+at minimum of 87 matches, person best at most heroes is ['andy', 'jon'] with 2
+at minimum of 88 matches, person best at most heroes is andy with 2
+at minimum of 89 matches, person best at most heroes is andy with 2
+at minimum of 90 matches, person best at most heroes is andy with 2
+at minimum of 91 matches, person best at most heroes is andy with 2
+at minimum of 92 matches, person best at most heroes is andy with 2
+at minimum of 93 matches, person best at most heroes is andy with 2
+at minimum of 94 matches, person best at most heroes is andy with 2
+at minimum of 95 matches, person best at most heroes is andy with 2
+at minimum of 96 matches, person best at most heroes is andy with 2
+at minimum of 97 matches, person best at most heroes is andy with 2
+at minimum of 98 matches, person best at most heroes is andy with 2
+at minimum of 99 matches, person best at most heroes is andy with 2
+at minimum of 100 matches, person best at most heroes is andy with 2
+at minimum of 101 matches, person best at most heroes is andy with 2
+at minimum of 102 matches, person best at most heroes is andy with 2
+at minimum of 103 matches, person best at most heroes is andy with 2
+at minimum of 104 matches, person best at most heroes is andy with 2
+at minimum of 105 matches, person best at most heroes is andy with 2
+at minimum of 106 matches, person best at most heroes is andy with 2
+at minimum of 107 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 1
+at minimum of 108 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 1
+at minimum of 109 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 1
+at minimum of 110 matches, person best at most heroes is ['stu', 'andy', 'jon'] with 1
+at minimum of 111 matches, person best at most heroes is ['stu', 'andy'] with 1
+at minimum of 112 matches, person best at most heroes is ['stu', 'andy'] with 1
+at minimum of 113 matches, person best at most heroes is ['stu', 'andy'] with 1
+at minimum of 114 matches, person best at most heroes is ['stu', 'andy'] with 1
+at minimum of 115 matches, person best at most heroes is ['stu', 'andy'] with 1
+at minimum of 116 matches, person best at most heroes is ['stu', 'andy'] with 1
+at minimum of 117 matches, person best at most heroes is ['stu', 'andy'] with 1
+at minimum of 118 matches, person best at most heroes is ['stu', 'andy'] with 1
+at minimum of 119 matches, person best at most heroes is ['stu', 'andy'] with 1
