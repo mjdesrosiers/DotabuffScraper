@@ -71,6 +71,11 @@ def get_match_results(matchid):
     pp(radiant_results)
     dire_results = get_faction_results(soup, 'dire')
     pp(dire_results)
+    results = {}
+    results['general'] = [winningteam, matchduration, gamemode, skillbracket, lobbytype]
+    results['radiant'] = radiant_results
+    results['dire'] = dire_results
+    return results
 
 def get_faction_results(soup, faction):
 
@@ -249,21 +254,26 @@ def load_latest_match():
         matchstr = f.readline()
         return int(matchstr)
 
-def update_latest_matches():
-    print("---updating recent matches---")
-    starting_id = load_latest_match()
+def get_new_matches():
     newmatches = []
+    starting_id = load_latest_match()
     for person in people:
         personmatches = get_recent_match_ids(person, starting_id)
         for match in personmatches:
             if match not in newmatches:
                 newmatches.append(match)
-    for match in newmatches:
-            get_match_results(match)
     if newmatches:
-        print(newmatches)
         latest = max(newmatches)
         cache_latest_match(latest)
+    return newmatches
+
+def update_latest_matches():
+    print("---updating recent matches---")
+
+    newmatches = get_new_matches()
+    if newmatches:
+        for match in newmatches:
+            get_match_results(match)
     else:
         print("no new matches")
 
